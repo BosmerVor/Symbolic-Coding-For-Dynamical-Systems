@@ -11,6 +11,8 @@ from OpenGL.GLU import *
 hist_all_nodes = []
 hist_remaining_nodes = []
 
+# COMMIT TEST
+
 hist_time_for_method = []
 hist_time_for_tarjan = []
 
